@@ -1,1 +1,3 @@
 rs.code-workspace
+.gitignore
+test.js
