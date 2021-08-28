@@ -74,7 +74,7 @@ else {
 * 2014 => Cisco CCNA Course
 * 2016 => Red Hat System Administration Course
 * 2019 => Linux Academy
-* 2020 => II-Academy DevOps Course
+* 2020 => IT-Academy DevOps Course
 
 ## Foreign Languages
 * English - B1
