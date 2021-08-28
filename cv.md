@@ -61,4 +61,22 @@ else {
 }
 ```
 
-## 
+## Experience
+
+**JSC "Minsk Television Information Networks"**
+* 2012 - 2013 => Technical Support
+* 2013 - 2017 => Systems Engineer
+* 2017 - 2020 => Systems Engineer, Deputy Head of IT Department
+
+## Education
+
+* 2004 - 2010 => Belarussian State Economic University
+* 2014 => Cisco CCNA Course
+* 2016 => Red Hat System Administration Course
+* 2019 => Linux Academy
+* 2020 => II-Academy DevOps Course
+
+## Foreign Languages
+* English - B1
+* German - B1
+* Russian - Native Speaker
